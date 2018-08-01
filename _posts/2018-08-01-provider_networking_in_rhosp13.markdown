@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: custom
 title:  "Provider Networking"
 description: This article describes how Provider Network works in RHOSP. Provider Network allows an instance to uses provider network that connects to the physical network infrastructure via layer-2 (bridging/switching).
 categories: jekyll update

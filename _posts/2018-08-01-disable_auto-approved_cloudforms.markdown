@@ -5,7 +5,7 @@ description: This article describes how you may disable auto-approval service re
 categories: jekyll update
 img: Logo_RH_Cloudforms_RGB_Gray.png
 categories: [one, two]
-color: 1976D2
+color: BA55D3
 author: dennis.lee
 ---
 

@@ -5,7 +5,7 @@ description: This article describes how Provider Network works in RHOSP. Provide
 categories: jekyll update
 img: Logo_RH_OpenStackPlatform_RGB_Blue.png
 categories: [one, two]
-color: C0C0C0
+color: ADD8E6
 author: dennis.lee
 ---
 

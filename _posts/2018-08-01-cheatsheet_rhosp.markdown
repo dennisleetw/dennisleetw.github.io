@@ -4,7 +4,7 @@ title:  "CheatSheet"
 description: This section spells out quick reference to handle RHOSPv13.
 img: Logo_RH_OpenStackPlatform_RGB_Gray.png
 categories: [one, two]
-color: 6495ED
+color: AFEEEE
 author: dennis.lee
 ---
 

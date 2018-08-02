@@ -4,7 +4,7 @@ title:  "SRIOV"
 description: This section describes how to configure Single Root Input/Output Virtualization (SRIOV) compute node in Red Hat OpenStack version 13.
 img: Logo_RH_OpenStackPlatform_RGB_Gray.png
 categories: [one, two]
-color: E0FFFF
+color: B0C4DE
 author: dennis.lee
 ---
 

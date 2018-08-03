@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "SRIOV"
-description: This section describes how to configure Single Root Input/Output Virtualization (SRIOV) compute node in Red Hat OpenStack version 13.
+title:  "SR-IOV"
+description: Single Root I/O Virtualization (SR-IOV) specification is a standard for a type of PCI device assignment that can share a single device to multiple virtual machines. SR-IOV improves device performance for virtual machines. This article describes the procedure to configure SRIOV compute node in RHOSPv13.
 img: Logo_RH_OpenStackPlatform_RGB_Gray.png
 categories: [one, two]
 color: B0C4DE

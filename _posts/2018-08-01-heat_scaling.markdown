@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Scaling using Heat"
+description: This article illustrates the powerful mechanism to scale out physical server using TripleO.
+img: heat.png
+categories: [one, two]
+color: AFEEEE
+author: dennis.lee
+---
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRVS2-CX6KpVC7YU8gjK6w7CCRwim8EHKt1bQ2F1KMFKPN7vTQf8DWeYUuWxC7OMKYlqOh4rLW7BO-C/pub?embedded=true"></iframe>

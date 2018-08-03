@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CheatSheet"
-description: This section spells out quick reference to handle RHOSPv13.
+description: This article spells out quick references to handle certain "day-2" operation tasks in RHOSPv13.
 img: Logo_RH_OpenStackPlatform_RGB_Gray.png
 categories: [one, two]
 color: AFEEEE

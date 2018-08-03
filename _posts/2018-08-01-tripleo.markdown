@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Scaling Node(s) using TripleO"
-description: This article illustrates the powerful mechanism to scale out physical server using TripleO.
+description: TripleO (OpenStack On OpenStack) is a project aimed at installing, upgrading and operating Openstack clouds using Openstack's own cloud facilities. This article describes the procedure to setup the undercloud and overcloud stack and subsequently scaling out the physical nodes.
 img: tripleo_logo.png
 categories: [one, two]
 color: AFEEEE
 author: dennis.lee
 ---
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRVS2-CX6KpVC7YU8gjK6w7CCRwim8EHKt1bQ2F1KMFKPN7vTQf8DWeYUuWxC7OMKYlqOh4rLW7BO-C/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQZv0mkqDJFzvRHU-u81AqjSHqsgHRxF1eIpJ_u-c5ZYs7io0Cawhwz8RmL-U-duwGHiaqca_LLkwFV/pub?embedded=true"></iframe>

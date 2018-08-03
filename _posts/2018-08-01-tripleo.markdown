@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scaling using TripleO"
+title:  "Scaling Server(s) using TripleO"
 description: This article illustrates the powerful mechanism to scale out physical server using TripleO.
 img: tripleo_logo.png
 categories: [one, two]

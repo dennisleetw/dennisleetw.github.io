@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Octavia LBaaS"
-description: Octavia project in Red Hat OpenStack platform provides a Load Balancing-as-a-Service (LBaaS) version 2. Octavia uses a set of instances on a Compute node called amphora and communicates with the amphora over a load-balancing management network. This section describes how to enable Octavia and assumes Octavia services are hosted on the same nodes as the Networking API server.
+title:  "LBaaS inside Openstack"
+description: Octavia project in OpenStack provides a Load Balancing-as-a-Service (LBaaS) version 2. Octavia uses a set of instances on a Compute node called amphora and communicates with the amphora over a load-balancing management network. This article describes how to enable and provision LBaaS using Octavia project. By default, the Load-balancing services are on the controller nodes - Octavia runs on your Controller node. 
 img: 600px-OpenStack_Project_Octavia_vertical.png
 categories: [one, two]
 color: 7FFFD4

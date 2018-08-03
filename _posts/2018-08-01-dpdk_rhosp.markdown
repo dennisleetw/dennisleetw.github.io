@@ -2,7 +2,7 @@
 layout: post
 title:  "OVS-DPDK"
 description: This section describes how to deploy Data Plane Development Kit (DPDK) compute node in Red Hat OpenStack version 13.
-img: Logo_RH_OpenStackPlatform_RGB_Gray.png
+img: dpdk-1.png
 categories: [one, two]
 color: 6495ED
 author: dennis.lee

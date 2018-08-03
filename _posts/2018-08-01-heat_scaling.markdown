@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Scaling using Heat"
-description: This article illustrates the powerful mechanism to scale out physical server using TripleO.
+title:  "Scaling VM using Heat"
+description: This article illustrates the powerful mechanism to scale out VM using Heat.
 img: heat.png
 categories: [one, two]
-color: F08080
+color: FFC37B
 author: dennis.lee
 ---
 

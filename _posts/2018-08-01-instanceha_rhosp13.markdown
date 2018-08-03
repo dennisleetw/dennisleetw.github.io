@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Instance HA"
-description: This article describes how to implement and test Instance High Availability (Instance HA) in RHOSPv13. Instance HA allows Red Hat OpenStack Platform to automatically evacuate and re-spawn instances on a different Compute node when their host Compute node fails.
+description: Instance HA (High Availability) allows Red Hat OpenStack Platform to automatically evacuate and re-spawn instances on a different Compute node when their host Compute node fails. Instance HA works on shared storage or local storage environments, which means that evacuated instances maintain the same network configuration (static IP, floating IP, and so on) and the same characteristics inside the new host, even if they are spawned from scratch. This article describes how to implement and test Instance HA on RHOSPv13. In this scenario, ceph is used as the shared storage.
 img: Logo_RH_OpenStackPlatform_RGB_Gray.png
 categories: [one, two]
 color: 7BF9FF

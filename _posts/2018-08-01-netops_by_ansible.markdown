@@ -9,7 +9,3 @@ color: B0C4DE
 author: dennis.lee
 ---
 
-
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vS_OMAsvueZnNEvIjE7VLw1NDYe2kriK15V84GMctyQC2zZj8R-QrCwn-UkpELcX8ZJHFLMmIyFVKT4/pub?embedded=true"></iframe>
-

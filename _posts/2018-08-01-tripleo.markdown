@@ -4,7 +4,7 @@ title:  "TripleO"
 description: This article illustrates the powerful mechanism to scale out physical server using TripleO.
 img: tripleo_logo.png
 categories: [one, two]
-color: B0C4DE
+color: E0FFFF
 author: dennis.lee
 ---
 

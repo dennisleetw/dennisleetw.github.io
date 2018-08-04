@@ -4,7 +4,7 @@ title:  "CheatSheet"
 description: This article spells out quick references to handle certain "day-2" operation tasks in RHOSPv13.
 img: Logo_RH_OpenStackPlatform_RGB_Gray.png
 categories: [one, two]
-color: AFEEEE
+color: E3CBA3
 author: dennis.lee
 ---
 

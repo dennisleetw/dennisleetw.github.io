@@ -14,8 +14,9 @@ author: dennis.lee
 <img align="middle" src="/images/netops_lifecycle.png">
     
     <div class="content">
-Netops is 
-  
+<img align="middle" src="/images/netops-devops.png">
+
+The following video illustrates how Ansible Tower can help network operation team to manage day-to-day lifecycle management use cases of heterogenous physical/virtual network appliances by ensuring strict governance and high degree of automation.
     </div>
 </div>
 

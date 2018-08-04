@@ -10,4 +10,4 @@ author: dennis.lee
 ---
 
 
-<iframe width="100%" height="100%" src="https://drive.google.com/file/d/11U8llAzP6A_tbS8VOZ2YC-YTE4_MbpJx/preview"></iframe>
+<iframe width="50%"  src="https://drive.google.com/file/d/11U8llAzP6A_tbS8VOZ2YC-YTE4_MbpJx/preview"></iframe>

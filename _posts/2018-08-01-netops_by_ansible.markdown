@@ -8,7 +8,10 @@ categories: [one, two]
 color: B0C4DE
 author: dennis.lee
 ---
+<div class="page-container">
 
 <img class="img" align=center src="/images/netops_lifecycle.png"  alt="{{page.title}}">
+   
+</div>
 
 <iframe src="https://drive.google.com/file/d/11U8llAzP6A_tbS8VOZ2YC-YTE4_MbpJx/preview"></iframe>

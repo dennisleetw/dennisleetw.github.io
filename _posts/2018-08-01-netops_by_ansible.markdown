@@ -10,7 +10,7 @@ author: dennis.lee
 ---
 <div class="page-container">
 
-<img class="img" align=center src="/images/netops_lifecycle.png"  alt="{{page.title}}">
+<img class="img" align=center src="/images/netops_lifecycle.png" | prepend: site.baseurl}}  alt="{{page.title}}">
    
 </div>
 

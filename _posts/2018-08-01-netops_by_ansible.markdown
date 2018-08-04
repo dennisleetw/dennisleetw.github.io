@@ -9,9 +9,9 @@ color: B0C4DE
 author: dennis.lee
 ---
 
-<div class="page-container">
+<div class="page-container2">
 
-<img width="100%" height="100%" align="center" src="/images/netops_lifecycle.png">
+<img align="middle" src="/images/netops_lifecycle.png">
     
     <div class="content">
     <article>

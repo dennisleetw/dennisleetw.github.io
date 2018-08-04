@@ -16,16 +16,16 @@ author: dennis.lee
     <div class="content">
 <img align="middle" src="/images/netops-devops.png">
 
-<b>The following "Compliance Check" video illustrates how Ansible Tower can help network operation team to manage day-to-day lifecycle management use cases of heterogenous physical/virtual network appliances by ensuring strict governance and high degree of automation.</b>
+The following "Compliance Check" video illustrates how Ansible Tower can help network operation team to manage day-to-day lifecycle management use cases of heterogenous physical/virtual network appliances by ensuring strict governance and high degree of automation.
 
 
     </div>
     
-    <iframe width="50%" src="https://drive.google.com/file/d/11U8llAzP6A_tbS8VOZ2YC-YTE4_MbpJx/preview"></iframe>
-
+    
 </div>
 
 
 
+<iframe width="200" height="200" src="https://drive.google.com/file/d/11U8llAzP6A_tbS8VOZ2YC-YTE4_MbpJx/preview"></iframe>
 
 

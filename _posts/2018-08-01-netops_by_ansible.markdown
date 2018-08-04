@@ -14,10 +14,7 @@ author: dennis.lee
 <img align="middle" src="/images/netops_lifecycle.png">
     
     <div class="content">
-    <article>
-        <h1 class="page-title">{{page.title}}</h1>
-
-    </article>
+Netops is 
   
     </div>
 </div>

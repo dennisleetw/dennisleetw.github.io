@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bare Metal Provisioning"
+description: The OpenStack Bare Metal service (ironic) provides the components required to provision and manage physical machines instead of virtual machines.
+img: ironic.png
+categories: [one, two]
+color: FFC77B
+author: dennis.lee
+---

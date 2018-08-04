@@ -10,7 +10,7 @@ author: dennis.lee
 ---
 
 
-<img width=100% align=center src="/images/netops_lifecycle.png">
+<img width="100%" align="center" src="/images/netops_lifecycle.png">
 
 
 <iframe src="https://drive.google.com/file/d/11U8llAzP6A_tbS8VOZ2YC-YTE4_MbpJx/preview"></iframe>

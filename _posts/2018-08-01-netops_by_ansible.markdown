@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: custom
 title:  "NetOps"
 description: This article describes how NetOps can be achieved using Ansible Tower.  
 categories: jekyll update

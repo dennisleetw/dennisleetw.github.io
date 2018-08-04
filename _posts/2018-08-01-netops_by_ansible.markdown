@@ -11,12 +11,15 @@ author: dennis.lee
 
 <div class="page-container2">
 
+NetOps is .......
+
 <img align="middle" src="/images/netops_lifecycle.png">
     
     <div class="content">
 <img align="middle" src="/images/netops-devops.png">
 
-The following "Compliance Check" video illustrates how Ansible Tower can help network operation team to manage day-to-day lifecycle management use cases of heterogenous physical/virtual network appliances by ensuring strict governance and high degree of automation.
+Ansible Tower can help network operation team to manage day-to-day lifecycle management use cases of heterogenous physical/virtual network appliances by ensuring strict governance and high degree of automation. 
+The following "Compliance Check" video illustrates how this can be achieved accordingly.
 
 
     </div>

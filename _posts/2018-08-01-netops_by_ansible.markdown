@@ -5,7 +5,7 @@ description: This article describes how NetOps can be achieved using Ansible Tow
 categories: jekyll update
 img: Logo_RH_AnsibleTower_RGB_RedGray.png
 categories: [one, two]
-color: B0C4DE
+color: 95C5CA
 author: dennis.lee
 ---
 

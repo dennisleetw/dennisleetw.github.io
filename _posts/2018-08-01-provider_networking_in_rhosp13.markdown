@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Provider Networking"
-description: This article describes how Provider Network works in RHOSP. Provider Network allows an instance to uses provider network that connects to the physical network infrastructure via layer-2 (bridging/switching).
+description: Provider Network allows an instance to uses provider network that connects to the physical network infrastructure via layer-2 (bridging/switching). This article describes how Provider Network works in RHOSP.
 categories: jekyll update
 img: Logo_RH_OpenStackPlatform_RGB_Blue.png
 categories: [one, two]

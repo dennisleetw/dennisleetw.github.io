@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Processing"
-description: OpenStack Data Processing enables the fast provisioning and easy management of Hadoop clusters on OpenStack. Hadoop is used to store and analyze large amounts of data, which is usually unstructured but can be a combination of both complex and structured data.
+description: The OpenStack Data Processing feature allows you to easily provision and scale Hadoop clusters to process large datasets. This guide walks you through the entire OpenStack Data Processing workflow, which includes registering the Data Processing requirements (image, input data, job binaries), configuring templates used to provision clusters, processing data on those clusters, and scaling those clusters as necessary.
 img: sahara.png
 categories: [one, two]
 color: 7BF9FF

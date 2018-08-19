@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Centralized Virtual Router"
-description: Centralized network node which is a physical server of hosting the virtual networking components, hosts virtual neutron routers. These virtual routers direct traffic to and from virtual machines. With L3 HA, the virtual routers of the tenant are randomly distributed across multiple physical Network nodes, with one router designated as the active router, and the other routers on standby, ready to take over if the Network node that hosts the active router experiences an outage.
+description: Network node is a physical server hosting the virtual networking components including the virtual neutron routers. These virtual routers direct traffic to and from virtual machines. With L3 HA, the virtual routers of the tenant are randomly distributed across multiple physical Network nodes, with one router designated as the active router, and the other routers on standby, ready to take over if the Network node that hosts the active router experiences an outage.
 img: neutron.png
 categories: [one, two]
 color: 95C5CA

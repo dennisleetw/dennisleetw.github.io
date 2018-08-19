@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Distributed Virtual Router"
+description: DVR (Distributed Virtual Routing) provides direct connectivity to external networks on compute nodes. It intends to isolate the failure domain of the Controller node and optimize network traffic by deploying the L3 agent and schedule routers on every Compute node to eliminate single point of failure and performance issues with classic network nodes. Routing also resides completely on the compute nodes for instances with a fixed or floating IP address using project networks on the same distributed virtual router.
+img: neutron.png
+categories: [one, two]
+color: FFEFD5
+author: dennis.lee
+---
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQyB56IL5El8JIh_wcD5cKkXdm0D1iDsa43Gk1tzvwLS3_dJL-pRTZ_OroLmrvcNSYjHKHAo8Jn-4qp/pub?embedded=true"></iframe>

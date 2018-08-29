@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Service Catalog using Heat in RHOSP"

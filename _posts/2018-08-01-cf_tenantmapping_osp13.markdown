@@ -5,7 +5,7 @@ description: Tenant mapping in CloudForms can be enabled to map any existing ten
 categories: jekyll update
 img: Logo_RH_Cloudforms_RGB_Blue.png
 categories: [one, two]
-color: ADD8E6
+color: E6E6FA
 author: dennis.lee
 ---
 

@@ -5,7 +5,7 @@ description: A control policy is a combination of an event, a condition, and an 
 categories: jekyll update
 img: Logo_RH_Cloudforms_RGB_Blue.png
 categories: [one, two]
-color: F0FFF0
+color: D8BFD8
 author: dennis.lee
 ---
 

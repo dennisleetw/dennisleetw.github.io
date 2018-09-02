@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "C&U Performance Metrics in OSPv13"
-description: C&U (Capacity & Utilization) processing is often referred to as metrics processing. This article describes how to enable performance metrics collection for both OSPv13 compute nodes and the hosted VM instances.
+title:  "C&U Hardware Metrics in OSPv13"
+description: C&U (Capacity & Utilization) processing is often referred to as metrics processing. This article describes how to enable hardware performance metrics collection for OSPv13 controller and compute nodes.
 categories: jekyll update
 img: Logo_RH_Cloudforms_RGB_Gray.png
 categories: [one, two]

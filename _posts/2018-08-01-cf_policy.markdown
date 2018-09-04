@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Policy: Event -> Condition -> Action"
+description: Compliance policies are used to harden your virtual infrastructure, making sure that your security requirements are adhered to. Control policies are used to check for a specific condition and perform an action based on the outcome. A control policy is a combination of an event, a condition, and an action. This article describes how to create a compliance policy (without custom event), its underlying conditions, and assign its events and actions in one process.
+categories: jekyll update
+img: Logo_RH_Cloudforms_RGB_Blue.png
+categories: [one, two]
+color: D8BFD8
+author: dennis.lee
+---
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSSZYEm4wXB2f1a3f829AKuTA_QhTeIqPQ0iohFNk_Aa7t5Zltlpw8DTvm1VHaT6k3mYenuSIQ4JNkT/pub?embedded=true"></iframe>

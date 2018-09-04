@@ -5,7 +5,7 @@ description: OpenDayLight (ODL) is an open-source, open-standards based SDN impl
 categories: jekyll update
 img: logo_odl.png
 categories: [one, two]
-color: E6E6FA
+color: CACACA
 author: dennis.lee
 ---
 

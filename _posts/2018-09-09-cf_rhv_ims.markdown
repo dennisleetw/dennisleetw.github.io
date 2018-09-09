@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Infrastructure Migration Solution"
+description: Red Hat Infrastructure Migration Solution is Red Hat’s solution for moving your virtual machines from VMware to Red Hat Virtualization. The infrastructure migration is performed with Red Hat CloudForms and this article illustrates the method to achieve this use case.
+categories: jekyll update
+img: Logo_RH_Cloudforms_RGB_Gray_ansible.png
+categories: [one, two]
+color: ADD8E6
+author: dennis.lee
+---
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTY7YkjWcXlBQT8NzEL2evV14L-2z3Ro0VVedrc1w2ls1zVbefeW_GrgXu0kiIdo5HX-bJq8nnqHsPq/pub?embedded=true"></iframe>

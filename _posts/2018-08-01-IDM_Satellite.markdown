@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IDM integration with Satellite"
+title:  "Satellite integration with LDAP"
 description: This article describes the procedure to authenticate and register Satellite user via LDAP backend (powered by Red Hat Identity Management).
 img: Logotype_RH_Satellite_RGB_Black.png
 categories: [one, two]

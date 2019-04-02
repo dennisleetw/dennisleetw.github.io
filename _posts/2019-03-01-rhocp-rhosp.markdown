@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "RHOCPv3.11 on RHOSPv13 (Queens)"
-description: Red Hat Openshift Container Platform (OCP) can seamlessly be deployed on top of Red Hat Openstack Platform (RHOSP) using Openshift Ansible playbooks. The embedded LBaaS (Octavia) in RHOSP13 offers additional value added service to service tenant workload like RHOCP. This article describes the simple procedure to achieve this.
-img: 600px-OpenStack_Project_Octavia_vertical.png
+description: Red Hat Openshift Container Platform (OCP) can seamlessly be deployed on top of Red Hat Openstack Platform (RHOSP) using Ansible playbooks. The embedded LBaaS (Octavia) in RHOSP13 offers additional value added service to tenant workload like RHOCP. This article describes the simple procedure to install RHOCPv3.11 on RHOSPv13 (Queens).
+img: rhocp_rhosp.png
 categories: [one, two]
 color: FFEFD5
 author: dennis.lee
